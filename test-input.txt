@@ -1,0 +1,3 @@
+Mark, please update the API documentation by Friday.
+John, we need you to review the code before the release.
+Sarah should implement the new authentication feature. 
